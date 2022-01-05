@@ -29,3 +29,26 @@ document.querySelector('#footer').innerHTML = `
     <span>@ DiscoveryLand Company. All rights reserved</span>
 </div>
 </div>`;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,182 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.first-section{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://dxaurk9yhilm4.cloudfront.net/images/889/DJI_0161-copy_2cbd80a0345be3b5a0b7649a1a2d057f.jpg");
+}
+.title-1{
+    font-size: 55px;
+    margin: 35vh 25vw;
+    color: white; 
+}
+.explore{
+    font-size: 20px;
+    margin: -5vh 15vw;
+    color: #777777;
+}
+.section-2{
+    width: 100%;
+    height: 160%;
+    padding: 7vh 0vw;
+    background-color: rgb(238, 229, 229);
+    margin: 0vh 0vw 0vh 0vw;
+}
+.section-2 img{
+    width: 60%;
+    height: 80%;
+    margin: 10vh 10vw;
+}
+.white-box{
+    background-color: white;
+    height: 55%;
+    width: 40%;
+    position: relative;
+    margin: -110vh 0vw 0vh 50vw;
+    z-index: 2;
+}
+.news{
+    color: #777777;
+    padding: 8vh 0vw ;
+    margin: 0vh 0vw 0vh 5vw;
+    font-size: 30px;
+}
+.sec-2-title{
+     font-size: 50px;
+     margin: 0vh 10vw;
+
+}
+.sec-2-para{
+       margin: 2vh 5vw;
+       color: #777777;
+       word-spacing: 1.5px;
+
+
+}
+.Sec-2-para-title{
+    color: black;
+    font-size: 40px;
+    margin: 0vh 5vw;
+}
+.article{
+    font-size: 25px;
+    color: black;
+    margin: 10vh 15vw;
+    font-weight:lighter ;
+}
+.fa-arrow-left{
+    font-size: 30px;
+    margin: 20vh 40vw;
+}
+
+.fa-arrow-right{
+    font-size: 30px;
+    margin: 20vh -30vw;
+}
+.num{
+    font-size: 30px;
+    margin: 10vh 45vw;
+    color: black;
+}
+.section-3{
+    height: 100%;
+    width: 100%;
+    margin: 0vh 0vw;
+    padding: 0vh 0vw;
+    background-color: lightgrey;
+}
+.sec-3-title{
+    font-size: 60px;
+    margin: 0vh 0vw 0vh 10vw;
+    padding: 10vh;
+}
+.box-1{
+    width: 35%;
+    height: 30%;
+    margin: 0vh 10vw;
+
+}
+
+.interview{
+    margin-bottom: 1rem;
+
+}
+.golf{
+     margin: 0vh 3vw 5vh 2vw;
+    font-weight: bold;
+    font-size: 23px;
+}
+.box-2{
+    width: 35%;
+    height: 30%;
+    margin: 5vh 10vw ;
+
+}
+.fairways{
+    padding: 2vh;
+    font: 23px goutham;
+    font-weight: lighter;
+}
+.sept{
+    margin: 0vh 3vw 5vh 2vw;
+  font-weight: bold;
+  font-size: 23px;
+}
+
+.box-3{
+  width: 35%;
+  height: 30%;
+  margin: -75vh 60vw;
+}
+.box-3-title{
+  padding: 2vh;
+  font: 23px goutham;
+  font-weight: lighter;
+}
+.times{
+    margin: 0vh 3vw 5vh 2vw;
+  font-weight: bold;
+  font-size: 23px;
+}
+.box-4{
+    width: 35%;
+    height: 30%;
+    margin: 80vh 60vw;
+}
+.box-4-title{
+    padding: 2vh;
+    font: 23px goutham;
+    font-weight: lighter;
+}
+
+.bloom{
+    margin: 0vh 3vw 5vh 2vw;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.section3-article{
+    font-size: 23px;
+    font-weight: bold;
+    margin: 0vh 10vw;
+}
+.num2{
+    margin: -80vh 0vw -3vh 45vw;
+    color: black;  
+    font-size: 35px; 
+} 
+.fa-long-arrow-alt-right{
+    font-size: 30px;
+    margin: -100vh 0vw 0vh 40vw;
+}
+
+.fa-long-arrow-alt-left{
+    font-size: 30px;
+    margin: 0vh 0vw 0vh 12vw;
+}
